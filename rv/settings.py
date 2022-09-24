@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'n#85tyi901ol9@)wkrob53vjzuyqbj8)942wjqe!hl^2-(+#f%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['test-rvonnet.herokuapp.com', '127.0.0.1']
 
